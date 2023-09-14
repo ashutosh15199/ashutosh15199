@@ -62,8 +62,8 @@
 
 ## *Connect with me*
 
-* [![Linkedin: ashutosh15199](https://img.shields.io/badge/-nixrajput-blue?style=social&logo=Linkedin&link=https://https://www.linkedin.com/in/ashutosh-kumar-tiwari-235a13201/)][linkedin]
-* [![Instagram: ashutosh15199](https://img.shields.io/badge/-nixrajput-blue?style=social&logo=Instagram&link=https://https://www.instagram.com/ashu______tosh/)][instagram]
+* [![Linkedin: ashutosh15199](https://img.shields.io/badge/-ashutosh-blue?style=social&logo=Linkedin&link=https://https://www.linkedin.com/in/ashutosh-kumar-tiwari-235a13201/)][linkedin]
+* [![Instagram: ashutosh15199](https://img.shields.io/badge/-ashutosh-blue?style=social&logo=Instagram&link=https://https://www.instagram.com/ashu______tosh/)][instagram]
 * [![Gmail: ashutoshkumartiwari686](https://img.shields.io/badge/-https://mail.google.com/mail/-blue?style=social&logo=Gmail&link=mailto:https://mail.google.com/mail/)][gmail]
 
 ## Languages and Tools
