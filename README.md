@@ -32,7 +32,7 @@
 
 * **Spring-Boot**
 * **React.js**
-* 
+
 ## *Web Technologies*
 
 * **HTML5**
@@ -61,20 +61,14 @@
 
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-282C34?logo=JavaScript&logoColor=F7DF1E)][github]
-[![C++](https://img.shields.io/badge/C++-282C34?logo=C%2B%2B&logoColor=00599C)][github]
-[![Python](https://img.shields.io/badge/Python-282C34?logo=Python&logoColor=3776AB)][github]
 
 [![React](https://img.shields.io/badge/React-282C34?logo=React)][github]
-[![Node.js](https://img.shields.io/badge/Node.js-282C34?logo=Node.js)][github]
-[![Next.js](https://img.shields.io/badge/Next.js-282C34?logo=Next.js)][github]
+
 
 [![HTML5](https://img.shields.io/badge/HTML5-282C34?logo=HTML5&logoColor=E34F26)][github]
 [![CSS3](https://img.shields.io/badge/CSS3-282C34?logo=CSS3&logoColor=1572B6)][github]
-[![Sass](https://img.shields.io/badge/Sass-282C34?logo=Sass&logoColor=CC6699)][github]
 
 [![MySQL](https://img.shields.io/badge/MySQL-282C34?logo=MySQL&logoColor=fff)][github]
-[![MongoDB](https://img.shields.io/badge/MongoDB-282C34?logo=MongoDB&logoColor=47A248)][github]
-[![SQLite](https://img.shields.io/badge/SQLite-282C34?logo=SQLite)][github]
 
 [![Git](https://img.shields.io/badge/Git-282C34?logo=Git&logoColor=F05032)][github]
 [![GitHub](https://img.shields.io/badge/GitHub-282C34?logo=GitHub&logoColor=fff)][github]
