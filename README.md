@@ -12,53 +12,44 @@
 
 * Passionate about building and designing software that is user-friendly and easy to use.
 * Specialized in both front-end and back-end development across platforms.
-* Proficient in Dart and JavaScript.
+* Proficient in Java.
 * Strong in design and integration of front-end and back-end technologies.
 * Looking to collaborate with other open-source [GitHub][github] content creators.
-* ***Ask me about*** - Flutter, Dart, React.js, Next.js & Node.js.
+* ***Ask me about*** - Java,React.js.
 * ***Fun fact*** - Cricket .
 
 ## Work Profile
 
-* Full Stack Developer (Tech Lead) at **Merito**.
-* Full Stack Development Intern at **TECHOX LLP**.
-* Web Development Intern at **Career Corner Solution Pvt Ltd**.
+* Full Stack Developer (Tech Lead) at **Property Station**.
+* Backend Development Intern at **Devkraft Technologies Pvt Ltd**.
 
 ## *Languages*
 
-* **Dart**
+* **Java**
 * **JavaScript**
-* **TypeScript**
-* **C++**
-* **Python**
 
 ## *Frameworks*
 
-* **Flutter**
+* **Spring-Boot**
 * **React.js**
-* **Node.js**
-* **Next.js**
-* **Express.js**
-
+* 
 ## *Web Technologies*
 
 * **HTML5**
 * **CSS**
-* **Sass**
+* **Tailwind**
 
 ## *Databases*
 
 * **MySQL**
 * **PostgreSQL**
-* **MongoDB**
-* **SQLite**
+
 
 ## Other Skills
 
 * **Firebase**
 * **Git**
 * **Ubuntu**
-* **AWS**
 
 ## *Connect with me*
 
