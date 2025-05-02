@@ -57,24 +57,6 @@
 * [![Instagram: ashutosh15199](https://img.shields.io/badge/-ashutosh-blue?style=social&logo=Instagram&link=https://https://www.instagram.com/ashu______tosh/)][instagram]
 * [![Gmail: ashutoshkumartiwari686](https://img.shields.io/badge/-https://mail.google.com/mail/-blue?style=social&logo=Gmail&link=mailto:https://mail.google.com/mail/)][gmail]
 
-## Languages and Tools
-
-
-[![JavaScript](https://img.shields.io/badge/JavaScript-282C34?logo=JavaScript&logoColor=F7DF1E)][github]
-
-[![React](https://img.shields.io/badge/React-282C34?logo=React)][github]
-
-
-[![HTML5](https://img.shields.io/badge/HTML5-282C34?logo=HTML5&logoColor=E34F26)][github]
-[![CSS3](https://img.shields.io/badge/CSS3-282C34?logo=CSS3&logoColor=1572B6)][github]
-
-[![MySQL](https://img.shields.io/badge/MySQL-282C34?logo=MySQL&logoColor=fff)][github]
-
-[![Git](https://img.shields.io/badge/Git-282C34?logo=Git&logoColor=F05032)][github]
-[![GitHub](https://img.shields.io/badge/GitHub-282C34?logo=GitHub&logoColor=fff)][github]
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-282C34?logo=Ubuntu&logoColor=E95420)][github]
-
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-282C34?logo=Visual-Studio-Code&logoColor=007ACC)][github]
 
 ## Github Stats
 
